@@ -16,6 +16,7 @@
 %   in2mm               - Converts inches to milimeters
 %   interpolate_cbrewer - - interpolate a colorbrewer map to ncolors levels
 %   jul2greg            - This code takes a year and Julian date, and outputs the Gregorian month and day.
+%   m2ft                - Converts meters to feet
 %   mm2in               - Converts milimeters to inches
 %   time_builder        - This code builds a time series based on user-specified start and end
 %
